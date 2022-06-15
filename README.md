@@ -7,7 +7,7 @@ ZYNQ.tcl is for configuration for ZYNQ based on PYNQ board (Compatible for ZYNQ 
 
 Board Support Package setting:
  
-![image](https://user-images.githubusercontent.com/102744628/173850154-5f8abcc2-8cd4-446b-b7ac-5fecdef338d8.png)
+![image](https://user-images.githubusercontent.com/102744628/173850662-cf20976c-02d6-4194-9318-bafda25e09b8.png)
 
 UART output below:
 
